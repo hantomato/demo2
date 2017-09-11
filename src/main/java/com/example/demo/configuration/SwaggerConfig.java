@@ -45,6 +45,7 @@ public class SwaggerConfig {
         // @formatter:on
     }
 
+
     private ApiInfo apiInfo() {
         // @formatter:off
         return new ApiInfoBuilder()
